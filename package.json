@@ -1,6 +1,6 @@
 {
   "name": "vuenes.css",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Vue Library that implement NES.css library into components",
   "author": "Fernando Alvarez",
   "scripts": {
@@ -12,7 +12,7 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "nes.css": "^2.1.0",
+    "nes.css": "https://github.com/PolyMeme/NES.css",
     "typeface-press-start-2p": "^0.0.72",
     "vue": "^2.6.8"
   },
@@ -58,6 +58,6 @@
   "main": "./vuenes.css.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com:jefer590/vuenes.css.git"
+    "url": "git+https://github.com/PolyMeme/vuenes.css.git"
   }
 }
